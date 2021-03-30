@@ -1,0 +1,6 @@
+{
+  "name": "first node app - dev",
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}
